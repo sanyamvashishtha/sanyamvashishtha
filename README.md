@@ -6,7 +6,7 @@
 <h1 align="center">Reincarnated on earth as a Programmer</h1>
 
 <p align="center">
-  <strong><a href="https://github.com/sanyamvashishtha">Website</a></strong> |
+  <strong><a href="http://sanyam.lovestoblog.com">Website</a></strong> |
   <strong><a href="https://www.linkedin.com/in/sanyam-vashishth/">Linked In</a></strong> |
   <strong><a href="https://replit.com/hexontop">Replit</a></strong> |
 </p>
